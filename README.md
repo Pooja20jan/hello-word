@@ -1,2 +1,2 @@
 # hello-word
-sample program
+i am pooja gautam and looser
